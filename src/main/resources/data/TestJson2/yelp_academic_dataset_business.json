@@ -1,0 +1,337 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "eevi",
+                    "last": "peltola"
+                },
+                "location": {
+                    "street": "2514 bulevardi",
+                    "city": "siikajoki",
+                    "state": "kainuu",
+                    "zip": 90577
+                },
+                "email": "eevi.peltola@example.com",
+                "username": "bluewolf834",
+                "password": "fright",
+                "salt": "GhqJ0Txx",
+                "md5": "c4ea89df7be5be78ecb6d74926992c3d",
+                "sha1": "8d19351371c37c33118b133fbcd64c703f3a26db",
+                "sha256": "858d3dedca78c114dc2c28a3be06d91567a4a915ee75a78f55370bf0ac9570da",
+                "registered": 1302425877,
+                "dob": 683195783,
+                "phone": "09-766-327",
+                "cell": "044-173-15-84",
+                "HETU": "260891A710L",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/64.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "vilma",
+                    "last": "ahonen"
+                },
+                "location": {
+                    "street": "4178 rautatienkatu",
+                    "city": "ruovesi",
+                    "state": "south karelia",
+                    "zip": 61293
+                },
+                "email": "vilma.ahonen@example.com",
+                "username": "brownpanda771",
+                "password": "lindros",
+                "salt": "8McY6DsX",
+                "md5": "5b0f756b36522bc3a0405e1dff941395",
+                "sha1": "75ab4aea262c02403df3819b567fee53fa1ac507",
+                "sha256": "5e821a4da19bde73e805c81b300b36e9f1093413d5dece5fd4bf22bc0e39f44f",
+                "registered": 1358194779,
+                "dob": 467319048,
+                "phone": "08-441-319",
+                "cell": "047-498-82-05",
+                "HETU": "221084A5367",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/6.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "anton",
+                    "last": "kari"
+                },
+                "location": {
+                    "street": "3750 verkatehtaankatu",
+                    "city": "karvia",
+                    "state": "finland proper",
+                    "zip": 54913
+                },
+                "email": "anton.kari@example.com",
+                "username": "silverdog756",
+                "password": "junior1",
+                "salt": "ujXlYdSd",
+                "md5": "ff0bd28892d7a87e56910475674467b0",
+                "sha1": "0d5e0b796d6e5975217d75e7857a0d463c3d3e81",
+                "sha256": "e9502a8b6e3c0935c82c6c67cfe8a0aa0e1daa02eed2c75197f31e0c4edc73bc",
+                "registered": 1067525585,
+                "dob": 920017288,
+                "phone": "07-687-175",
+                "cell": "043-207-64-73",
+                "HETU": "260299A891N",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "iina",
+                    "last": "rantanen"
+                },
+                "location": {
+                    "street": "2850 tahmelantie",
+                    "city": "enonkoski",
+                    "state": "northern savonia",
+                    "zip": 97494
+                },
+                "email": "iina.rantanen@example.com",
+                "username": "beautifulmouse710",
+                "password": "iforget",
+                "salt": "FddfdDS6",
+                "md5": "7f4387d78066c272db9fbdd89d85576d",
+                "sha1": "50ecef2724ba11cd8518f3cefb4e62857187d799",
+                "sha256": "3e5783d1ba42ad0250cc7a2ca83708982246ebcace9ef31b92e7ab8a0292e7ea",
+                "registered": 1145493410,
+                "dob": 314384663,
+                "phone": "02-045-148",
+                "cell": "043-014-12-01",
+                "HETU": "181279A890C",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "miro",
+                    "last": "laine"
+                },
+                "location": {
+                    "street": "6556 korkeavuorenkatu",
+                    "city": "savitaipale",
+                    "state": "central ostrobothnia",
+                    "zip": 15544
+                },
+                "email": "miro.laine@example.com",
+                "username": "yellowmeercat191",
+                "password": "godzilla",
+                "salt": "2DdmZOH1",
+                "md5": "2b51dda970b6288e5afd68e92773c6c6",
+                "sha1": "a93b78f19d621ddcf49275ed94bab20ce98d7d84",
+                "sha256": "b84414597d8ade134fa458dd2196bd00e3b7e9e11262467a80ff8d7cc0a7f16f",
+                "registered": 1228553655,
+                "dob": 113913467,
+                "phone": "06-662-452",
+                "cell": "048-117-92-01",
+                "HETU": "110873A691N",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/88.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "eemil",
+                    "last": "annala"
+                },
+                "location": {
+                    "street": "7470 rautatienkatu",
+                    "city": "rauma",
+                    "state": "finland proper",
+                    "zip": 51157
+                },
+                "email": "eemil.annala@example.com",
+                "username": "greenelephant378",
+                "password": "battery",
+                "salt": "4gd9AioC",
+                "md5": "c82edea3183d5b10fc7ec9062812a38e",
+                "sha1": "5e0b15884923d0004a76170f171dd71463d357d5",
+                "sha256": "533d5e99485572a611aecc9c5062c67711bf62fd7b3fcca21e77c4c59efd145d",
+                "registered": 1435689875,
+                "dob": 673471137,
+                "phone": "09-913-942",
+                "cell": "048-453-82-05",
+                "HETU": "050591A6656",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "lotta",
+                    "last": "ruona"
+                },
+                "location": {
+                    "street": "1882 myllypuronkatu",
+                    "city": "jalasjärvi",
+                    "state": "tavastia proper",
+                    "zip": 25637
+                },
+                "email": "lotta.ruona@example.com",
+                "username": "beautifulfish321",
+                "password": "gooner",
+                "salt": "XUrRGwkS",
+                "md5": "07699442c3297772290d14beecd29bfe",
+                "sha1": "8b282cf2cd774a16f38970a121c0aeb9d554781b",
+                "sha256": "ee634d0b0f54793897de38f6c1e6bb02af2921b3f07684e30edd75c909590bd7",
+                "registered": 1282885779,
+                "dob": 1427370250,
+                "phone": "04-819-117",
+                "cell": "047-431-64-25",
+                "HETU": "260315A700M",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/11.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "sara",
+                    "last": "salminen"
+                },
+                "location": {
+                    "street": "9835 hämeenkatu",
+                    "city": "miehikkälä",
+                    "state": "south karelia",
+                    "zip": 65256
+                },
+                "email": "sara.salminen@example.com",
+                "username": "heavyswan361",
+                "password": "hazard",
+                "salt": "2DSTK90H",
+                "md5": "d2d784b0419e257eb0ee1e3b8def698b",
+                "sha1": "8e46927462380d50295bf6398af1dc258fab7073",
+                "sha256": "47e06cc27671db1bd2af4782775b2384e9396a6dc64694f6506f3cb48046256a",
+                "registered": 1079631377,
+                "dob": 14885295,
+                "phone": "09-750-745",
+                "cell": "049-986-41-28",
+                "HETU": "220670A008B",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/23.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "akseli",
+                    "last": "salonen"
+                },
+                "location": {
+                    "street": "1473 rotuaari",
+                    "city": "keuruu",
+                    "state": "north karelia",
+                    "zip": 29214
+                },
+                "email": "akseli.salonen@example.com",
+                "username": "ticklishmeercat364",
+                "password": "87654321",
+                "salt": "PLtAWiQD",
+                "md5": "42170c2a9f328b5eec5926846431d1de",
+                "sha1": "eb7c0e81cd1e6372d93b5a3a83b5f29d39ea5ce1",
+                "sha256": "55f6d401e22a39e3151229f5f543f57b9c06a149e535fccbae5e22f63d8bbc20",
+                "registered": 1336630380,
+                "dob": 97243589,
+                "phone": "09-275-100",
+                "cell": "043-102-46-75",
+                "HETU": "300173A9610",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "eevi",
+                    "last": "koistinen"
+                },
+                "location": {
+                    "street": "7365 pirkankatu",
+                    "city": "lohja",
+                    "state": "central finland",
+                    "zip": 57507
+                },
+                "email": "eevi.koistinen@example.com",
+                "username": "beautifulladybug829",
+                "password": "slowhand",
+                "salt": "PIaPTSmK",
+                "md5": "18670ac6a07fc76f2f3b26413edc6ea6",
+                "sha1": "18fc914fd30c79d66ff6ef6ae1d82ac586a5190f",
+                "sha256": "ed332363fe33b47f2bc18c571a9a09198509b5aad6d9349322720fd22db56bf7",
+                "registered": 1434337038,
+                "dob": 231846199,
+                "phone": "02-313-436",
+                "cell": "047-820-25-80",
+                "HETU": "070577A712C",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/83.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "FI",
+    "seed": "7a6e99ac4189ab7206",
+    "version": "0.8"
+}
